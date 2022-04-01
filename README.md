@@ -1,7 +1,7 @@
 # web_authentication_using_passportjs
 This project is very simple to use, you only have to clone this repository:
 
-step 1 : git clone https://github.com/rakshith572/todo_web_app_node_express_mongoDB.git
+step 1 : git clone https://github.com/rakshith572/web_authentication_using_passportjs.git
 
 step 2: npm install
 
